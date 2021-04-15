@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Cristina are 13 pisici sanatoase si una bolnava
 Am si eu una
+=======
+Cristina are 16 pisici frumoase
+Am si eu una
+Vreau sho
+>>>>>>> percic
