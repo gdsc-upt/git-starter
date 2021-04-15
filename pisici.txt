@@ -1,3 +1,7 @@
 Cristina are 16 pisici frumoase
 Am si eu una
+<<<<<<< HEAD
 Eu nu am
+=======
+Am si eu una dar cam prostuta
+>>>>>>> carpencu
