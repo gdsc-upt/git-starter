@@ -1,1 +1,2 @@
 # git-starter
+Nikita Mazepin
